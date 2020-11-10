@@ -4,8 +4,8 @@
 > DataBase used : https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 ## 資料集
-[!alt text](/Image/credits_csv.png?raw=true)
-[!alt text](/Image/movies_csv.png?raw=true)
+[!alt text](https://github.com/shungfu/Simple_Movie_Recommned_System/tree/master/Image/credits_csv.png?raw=true)
+[!alt text](https://github.com/shungfu/Simple_Movie_Recommned_System/tree/master/Image/movies_csv.png?raw=true)
 
 ## 以電影類型排名
 
