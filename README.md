@@ -5,13 +5,14 @@
 
 ## 資料集
 ![credits.csv](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/credits_csv.png)
-![movies.csv](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/movies_csv.png= 70%x)
+
+<img src="https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/movies_csv.png" width="100" height="100"/>
 
 ## 以電影類型排名
 ![crime movie](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/crime.png)
 
 ## 以卡斯、團隊、關鍵字、類型建立推薦
-![recommand](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/recommand1.png)
+![recommand](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/recomand1.png)
 
 ## Collaborative Filtering
 * 利用使用者的評分紀錄來推薦電影
