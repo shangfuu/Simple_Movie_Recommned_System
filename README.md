@@ -12,7 +12,7 @@
 <img src="https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/crime.png" width="613" height="744"/>
 
 ## 以卡斯、團隊、關鍵字、類型建立推薦
-<img src="https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/recomand1.png" width="816" height="480"/>
+<img src="https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/recomand1.png" width="652" height="384"/>
 
 ## Collaborative Filtering
 * 利用使用者的評分紀錄來推薦電影
@@ -40,7 +40,7 @@
 
 ### User1 推薦電影
 <img src="https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/user1_hybrid.png" width="677" height="329">
-<img src="https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/user1_hybrid2.png" width="1111" height="480">
+<img src="https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/user1_hybrid2.png" width="778" height="336">
 
 
 
