@@ -5,12 +5,13 @@
 
 ## 資料集
 ![credits.csv](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/credits_csv.png)
-![movies.csv](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/movies_csv.png)
+![movies.csv](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/movies_csv.png= 70%x)
 
 ## 以電影類型排名
-
+![crime movie](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/crime.png)
 
 ## 以卡斯、團隊、關鍵字、類型建立推薦
+![recommand](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/recommand1.png)
 
 ## Collaborative Filtering
 * 利用使用者的評分紀錄來推薦電影
@@ -18,6 +19,7 @@
 * 不是所有電影，使用者都會看過並且評分，所以需要預測
 ### 預測使用者評分
 * 使用已知的評分去預測可能成績
+![collaborative](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/colla.png)
 
 ## Hybrid Recommend
 * 結合”相似電影”和”使用者喜好”來推薦
@@ -32,7 +34,11 @@
 * Drama
 
 ### User1 電影評分表
+![user1 move rate](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/user1_rate.png)
+
 ### User1 推薦電影
+![user1 hybrid recommend 1](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/user1_hybrid.png)
+![user1 hybrid recommend 2](https://github.com/shungfu/Simple_Movie_Recommned_System/raw/master/Image/user1_hybrid2.png)
 
 
 
